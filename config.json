@@ -1,0 +1,6 @@
+{
+  "imdb_top250_url": "https://www.imdb.com/chart/top/",
+  "n_filmes": 250,
+  "db_path": "data/imdb.db",
+  "output_dir": "data"
+}

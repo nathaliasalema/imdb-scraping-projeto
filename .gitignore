@@ -1,0 +1,33 @@
+# Bytecode e cache
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual
+.venv/
+env/
+venv/
+
+# Arquivos de banco e dados gerados pelo projeto
+data/**/*.db
+
+# Arquivos exportados para análise
+data/**/*.csv
+data/**/*.json
+
+# Arquivos temporários / logs
+*.log
+.tmp/
+
+# Configurações do editor (opcional)
+.vscode/
+.idea/
+
+# Distribuições e builds
+build/
+dist/
+*.egg-info/
+
+# Arquivos do sistema operacional
+Thumbs.db
+.DS_Store
+
